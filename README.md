@@ -2,7 +2,7 @@
 - 👀 I’m interested in linux
 - 🌱 I’m currently learning centos
 - 💞️ I’m looking to collaborate on pages
-- 📫 How to reach me ...
+- 📫 How to reach me :this my 1st code.welcome the hello world!
 
 <!---
 zeng8405/zeng8405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
